@@ -1,2 +1,2 @@
 # Hello-World-Bioconda
-Coming soon
+Taller Bioconda! vuelva en unas semanas :)
